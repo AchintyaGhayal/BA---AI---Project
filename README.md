@@ -39,3 +39,15 @@ LIMIT 5;
 
 
 Finding: Barista Espresso generated the most revenue at the Astoria location, with $48,320.50 in sales.
+
+## Dashboard
+
+### Coffee Shop Sales & Revenue Analysis
+
+[View My Interactive Tableau Dashboard](PASTE_TABLEAU_LINK_HERE)
+
+![Coffee Shop Dashboard](dashboard.png)
+
+**Key Finding:** Coffee generated the highest total revenue among product categories, bringing in $269,952.45.
+
+This dashboard compares revenue across product categories and store locations. Users can click on a category to see how its revenue is distributed across the three locations.
