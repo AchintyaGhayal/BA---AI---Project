@@ -44,7 +44,7 @@ Finding: Barista Espresso generated the most revenue at the Astoria location, wi
 
 ### Coffee Shop Sales & Revenue Analysis
 
-[View My Interactive Tableau Dashboard](PASTE_TABLEAU_LINK_HERE)
+[View My Interactive Tableau Dashboard]([PASTE_TABLEAU_LINK_HERE](https://public.tableau.com/app/profile/achintya.ghayal/viz/CoffeeShopSalesandRevenueAnalysis/Dashboard1?publish=yes))
 
 ![Coffee Shop Dashboard](dashboard.png)
 
